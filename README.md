@@ -1,5 +1,7 @@
-### Hi, I'm Amin Kafri
+### Hi, I'm Amin Kafri  
 
-Programming has been my friends since 2019. I started to take it seriously in 2021. I like doing some networking (CS wise), love data structures, love building all sort of things whether it is complex or not. Currently, I like to write Go program and I'm in love with how minimal and simple the language is. 
+Programming and I go way back—2019, to be exact. We got serious in 2021, and it’s been a wild ride ever since! I dabble in all sorts of things, from networking (the computer kind, not the “let’s swap business cards” kind) to geeking out over data structures.  
 
-Love to do deep technical stuff.
+Lately, I’ve been writing Go programs because, honestly, who wouldn’t love a language that’s minimal, simple, and just… *chef’s kiss*. I also have a thing for diving into deep technical stuff—it’s like my version of extreme sports.  
+
+Check out my projects, and let’s build something awesome together (or debug endlessly—both are fun)! 
