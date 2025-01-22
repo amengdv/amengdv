@@ -4,4 +4,4 @@ Programming and I go way back—2019, to be exact. We got serious in 2021, and i
 
 Lately, I’ve been writing Go programs because, honestly, who wouldn’t love a language that’s minimal, simple, and just… *chef’s kiss*. I also have a thing for diving into deep technical stuff—it’s like my version of extreme sports.  
 
-Check out my projects, and let’s build something awesome together (or debug endlessly—both are fun)! 
+Check out my projects, and let’s build something awesome together (or debug endlessly either way are fun)! 
